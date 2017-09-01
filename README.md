@@ -1,4 +1,4 @@
-# vue-oa
+# vue2-template
 
 > A Vue.js project
 
